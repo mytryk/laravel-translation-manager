@@ -1,5 +1,5 @@
 {
-  "name": "barryvdh/laravel-translation-manager",
+  "name": "mytryk/laravel-translation-manager",
   "description": "Manage Laravel Translations",
   "keywords": [
     "laravel",
@@ -17,8 +17,7 @@
     "php": ">=7",
     "illuminate/support": "^5.5|^6|^7|^8",
     "illuminate/translation": "^5.5|^6|^7|^8",
-    "symfony/finder": "^3|^4|^5",
-    "tanmuhittin/laravel-google-translate": "^2.0.1"
+    "symfony/finder": "^3|^4|^5"
   },
   "autoload": {
     "psr-4": {

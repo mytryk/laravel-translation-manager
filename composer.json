@@ -25,14 +25,11 @@
     }
   },
   "extra": {
-    "branch-alias": {
-      "dev-master": "0.5-dev"
-    },
     "laravel": {
       "providers": [
         "Barryvdh\\TranslationManager\\ManagerServiceProvider"
       ]
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev"
 }

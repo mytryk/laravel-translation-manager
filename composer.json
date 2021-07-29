@@ -30,5 +30,6 @@
         "Barryvdh\\TranslationManager\\ManagerServiceProvider"
       ]
     }
-  }
+  },
+  "minimum-stability": "dev",
 }
